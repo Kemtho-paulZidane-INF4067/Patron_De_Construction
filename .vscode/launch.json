@@ -1,0 +1,77 @@
+{
+    // Utilisez IntelliSense pour en savoir plus sur les attributs possibles.
+    // Pointez pour afficher la description des attributs existants.
+    // Pour plus d'informations, visitez : https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "TestSingleton",
+            "request": "launch",
+            "mainClass": "Singleton/construction.singleton.TestSingleton",
+            "projectName": "Singleton (2)"
+        },
+        {
+            "type": "java",
+            "name": "TestSingleton",
+            "request": "launch",
+            "mainClass": "PatronSingleton/construction.singleton.TestSingleton",
+            "projectName": "PatronSingleton (2)"
+        },
+        {
+            "type": "java",
+            "name": "TestSingleton",
+            "request": "launch",
+            "mainClass": "construction.singleton.TestSingleton",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Client",
+            "request": "launch",
+            "mainClass": "AbstractFactory/model.Client",
+            "projectName": "AbstractFactory"
+        },
+        {
+            "type": "java",
+            "name": "Client(1)",
+            "request": "launch",
+            "mainClass": "Factory/model.Client",
+            "projectName": "Factory"
+        },
+        {
+            "type": "java",
+            "name": "Client(2)",
+            "request": "launch",
+            "mainClass": "PatronBuilderExemple/exemple.model.Client",
+            "projectName": "PatronBuilder"
+        },
+        {
+            "type": "java",
+            "name": "Client(3)",
+            "request": "launch",
+            "mainClass": "PatronBuilderExemple/modification.model.Client",
+            "projectName": "PatronBuilder"
+        },
+        {
+            "type": "java",
+            "name": "Client(4)",
+            "request": "launch",
+            "mainClass": "abstractFactory/construction.abstractFactory.Client",
+            "projectName": "abstractFactory"
+        },
+        {
+            "type": "java",
+            "name": "Client(5)",
+            "request": "launch",
+            "mainClass": "patronAbstractfactory/model.Client",
+            "projectName": "patronAbstractfactory"
+        }
+    ]
+}
