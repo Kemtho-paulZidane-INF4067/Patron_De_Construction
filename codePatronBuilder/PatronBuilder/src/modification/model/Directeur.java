@@ -14,8 +14,8 @@ public class Directeur {
 		}
 		
 		//contruire pizza Escargot
-				public Pizza construirePizzaEscargot() {
-					MonteurPizza pizzaesca=new MonteurPizzaEscargot();
+				public Pizza construirePizzaLocal() {
+					MonteurPizza pizzaesca=new MonteurPizzaLocal();
 					
 					return pizzaesca.getPizza();
 				}

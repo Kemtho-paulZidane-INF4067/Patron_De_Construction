@@ -17,8 +17,8 @@ public class Client {
 	
 	
 	//construire pizza Escargot
-		System.out.println(".......................Pizza Escargot Fabriquée..................");
-		directeur.construirePizzaEscargot().print();
+		System.out.println(".......................Pizza Locale Fabriquée..................");
+		directeur.construirePizzaLocal().print();
 		
 	
 

@@ -15,7 +15,8 @@ public class MonteurPizzaPiquante extends MonteurPizza {
 		
 	}
 	public Pizza getPizza() {
-		// TODO Auto-generated method stub
+		// intialisation de la pizza
+		creerPizza();
 		//appel des methodes pour construire respectivement la pate; sauce et garniture
 				monterPate();
 			    monterSauce();

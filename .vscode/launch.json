@@ -8,6 +8,20 @@
             "type": "java",
             "name": "TestSingleton",
             "request": "launch",
+            "mainClass": "PatronSingleton/construction.singleton.TestSingleton",
+            "projectName": "PatronSingleton"
+        },
+        {
+            "type": "java",
+            "name": "TestSingleton",
+            "request": "launch",
+            "mainClass": "Singleton/construction.singleton.TestSingleton",
+            "projectName": "Singleton_Exemple"
+        },
+        {
+            "type": "java",
+            "name": "TestSingleton",
+            "request": "launch",
             "mainClass": "Singleton/construction.singleton.TestSingleton",
             "projectName": "Singleton (2)"
         },

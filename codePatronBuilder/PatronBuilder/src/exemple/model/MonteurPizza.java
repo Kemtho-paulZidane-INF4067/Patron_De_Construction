@@ -1,13 +1,18 @@
 package exemple.model;
 
 public abstract class MonteurPizza {
-	protected Pizza pizza=new Pizza() ;
+	protected Pizza pizza;
 	
+	public void creerPizza(){
+		pizza=new Pizza() ;
+	}
 	
 	
 	public Pizza getPizza() {
-		// TODO Auto-generated method stub
+		// initialisation d'une pizza
+		   creerPizza();
 		//appel des methodes pour construire respectivement la pate; sauce et garniture
+		
 				monterPate();
 			    monterSauce();
 				monterGarniture();
