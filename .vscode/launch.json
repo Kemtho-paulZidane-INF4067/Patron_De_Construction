@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Client",
+            "request": "launch",
+            "mainClass": "Factory/model.Client",
+            "projectName": "Factory (4)"
+        },
+        {
+            "type": "java",
+            "name": "Client",
+            "request": "launch",
+            "mainClass": "Factory/model.Client",
+            "projectName": "Factory (3)"
+        },
+        {
+            "type": "java",
+            "name": "Client",
+            "request": "launch",
+            "mainClass": "AbstractFactory/model.Client",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Client",
+            "request": "launch",
+            "mainClass": "model.Client",
+            "projectName": ""
+        },
+        {
+            "type": "java",
             "name": "TestSingleton",
             "request": "launch",
             "mainClass": "PatronSingleton/construction.singleton.TestSingleton",

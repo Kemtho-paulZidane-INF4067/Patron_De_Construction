@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="codePatronAbstractFactory/abstractFactory_Exemple/src"/>
+	<classpathentry kind="src" path="codePatronAbstractFactory/patronAbstractfactory_modifié/src"/>
+	<classpathentry kind="src" path="codePatronBuilder/PatronBuilder/src"/>
+	<classpathentry kind="src" path="codePatronFactory/FactoryExemple_modifie/src"/>
+	<classpathentry kind="src" path="codePatronFactory/FactoryExemple/src"/>
+	<classpathentry kind="src" path="codePatronFactory/FactoryMethode_modifie/src"/>
+	<classpathentry kind="src" path="codePatronFactory/FactoryMethode/src"/>
+	<classpathentry kind="src" path="codePatronSingleton/PatronSingleton_modifie/src"/>
+	<classpathentry kind="src" path="codePatronSingleton/Singleton_Exemple/src"/>
+	<classpathentry kind="output" path="codePatronAbstractFactory/abstractFactory_Exemple/bin"/>
+</classpath>

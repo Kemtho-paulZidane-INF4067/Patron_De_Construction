@@ -4,7 +4,7 @@ public class Client {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("............Methode 2: Abstract Factory............");
+		System.out.println("........... modification Factory Methode ............");
 		  
 		ProduitFactory produitfactoryA=new ProduitFactoryA();
 		
